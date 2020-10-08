@@ -9,4 +9,4 @@ Enter: the smoothness and existence of the Navier-Stokes equations. We know that
 # Here, we hope Turbocoin can help.
 Turbocoin leverages the incentive of cryptocurrency mining, by awarding each volunteer Turbocoin for every job they run using their free computer space. The jobs run off of a BOINC server and will dump publicly available data onto a website, to help mathematicians and scientists who are interested in helping provide proofs about the 3D existence (or non-existence) of the Navier-Stokes equations.
 
-Upon launch of the project, Turbocoin should be tradeable as a cryptocurrency on all reputable crypto exchanges. We hope to foster a community around solving this imminently important mystery. We hope you will be apart of the solution.
+Upon launch of the project, Turbocoin should be tradeable as a cryptocurrency on all reputable crypto exchanges. We hope to foster a community around solving this imminently important mystery that will help us understand critical questions about our physical environment. We hope you will be apart of the solution.
